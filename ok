@@ -1,0 +1,85 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	/*
+	int x;
+	cout << "Uzrakstit jusu procentus ";
+	cin >> x;
+	if (x >= 90)
+	{
+		cout << "Grade A";
+	}
+	if (x >= 80 && x < 90) { cout << "Grade B"; }
+	if (x >= 70 && x < 80) { cout << "Grade C"; }
+	if (x >= 60 && x < 70) { cout << "Grade D"; }
+	if (x >= 40 && x < 60) { cout << "Grade E"; }
+	if (x < 40) { cout << "Grade F"; }*/
+	/*int a1, a2;
+
+	cin >> a1 >> a2;
+
+	if (a1 > a2)
+	{
+		cout << "pirmais skaitlis ir maksimalais " << endl;
+
+	}
+	else cout << "otrais skaitlis ir maksimalais  " << endl;
+	if (a1 < 0)
+	{
+		cout << "pirmais skaitlis ir negativajs " << endl;
+	}
+	else cout << "otrais skaitlis ir negativajs" << endl;
+	if (a1 % 2 == 0)
+	{
+		cout << "pirmais skaitlis ir para " << endl;
+	}
+	else cout << "pirmaja skaitla nav para" << endl;
+	if (a2 % 2 == 0)
+	{
+		cout << "otrais skaitlis ir para " << endl;
+	}
+	else cout << "otraja skitla nav para" << endl;
+	return 0;*/
+	/*int a, a1;
+	cout << "Attiecigo dienu: ";
+	cin >> a;
+	if (a == 1) { cout << "1- Pirmdiena" << endl;}
+	if (a == 2) { cout << "2-Otrdiena " << endl;}
+	if (a == 3) { cout << "3- Tresdiena " << endl;}
+	if (a == 4) { cout << "4-Ceturdiena " << endl;}
+	if (a == 5) { cout << "5- Piekdiena " << endl;}
+	if (a == 6) { cout << " 6-Sesdiena " << endl;}
+	if (a == 7) { cout << "7- Svetdiena " << endl;}
+	cout << "Attiecigo menesu: " ;
+	cin >> a1;
+	if (a1 == 1) { cout << "1-Janvari" << endl; }
+	if (a1 == 2) { cout << "2-Fevrals" << endl;}
+	if (a1 == 3) { cout << "3-Marts" << endl;}
+	if (a1 == 4) { cout << "4-Aprilis" << endl;}
+	if (a1 == 5) { cout << "5-Majs" << endl;}
+	if (a1 == 6) { cout << "6-Ijunis" << endl;}
+	if (a1 == 7) { cout << "7-Ijulis" << endl;}
+	if (a1 == 8) { cout << "8-Avgusts" << endl;}
+	if (a1 == 9) { cout << "9-Septembris" << endl;}
+	if (a1 == 10) { cout << "10-Oktobris" << endl;}
+	if (a1 == 11) { cout << "11-Novembri" << endl;}
+	if (a1 == 12) { cout << "12-Decembris " << endl;}
+	*/
+
+	////int a;
+	////int a1;
+	////int a2;
+	////cout << "1 mala :";
+	////cin >> a;
+	////cout << "2 mala  :";
+	////cin >> a1;
+	////cout << "3 mala  :";
+	////cin >> a2;
+	////if (a == a1 == a2) { cout << "vienadmalu trij"; }
+
+
+	
+
+}
